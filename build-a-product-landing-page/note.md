@@ -7,3 +7,4 @@
 7.<nav>可包在ul或ol外面，表示导航
 导航里面的<a>标签设置href，就可以导航到id为这个的部分。eg.设置href="#features"，点击后就可导航到id为features的部分
 8.input[type='email']CSS选择器用中括号可选择出相应类型的input
+9.form标签的action属性是必需的，规定当提交表单时，向何处发送表单数据。
